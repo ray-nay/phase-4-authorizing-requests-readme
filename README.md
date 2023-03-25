@@ -166,8 +166,8 @@ Before you move on, make sure you can answer the following questions:
 
 1. What is the difference between authentication and authorization?
 2. What Rails method can we use to add an authorization step before each of the
-   actions in our controller? What Rails method can we use to exclude one or
-   more of the actions from the authorization step?
+   actions in our controller? before_action  What Rails method can we use to exclude one or
+   more of the actions from the authorization step? skip_before_action
 
 ## Resources
 
